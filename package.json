@@ -1,9 +1,10 @@
-
 {
-  "name": "duxo-dev-backend",
+  "name": "subscriber-race-backend",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "jsonwebtoken": "^9.0.0",
+    "cookie": "^0.6.0"
   }
 }
